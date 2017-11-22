@@ -1,9 +1,10 @@
 {
   "name": "split-pane2",
   "main": [
-    "split-pane.js"
+    "split-pane.js",
+	"split-pane.css"
   ],
-  "version": "0.10.0",
+  "version": "0.10.1",
   "homepage": "https://github.com/nirmal-aaneel/split-pane2",
   "authors": [
     "Simon Hagström <nil4u.you@gmail.com>"
